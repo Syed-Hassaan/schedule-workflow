@@ -1,4 +1,4 @@
-name: Schedule job
+name: Schedule Job
 
 on:
   schedule:
@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Print Message
-        run: echo "Schedule workflow executed"
+        run: echo "Schedule Workflow Executed"
